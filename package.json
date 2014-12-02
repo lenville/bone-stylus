@@ -1,0 +1,23 @@
+{
+  "name": "bone-stylus",
+  "version": "0.0.1",
+  "description": "stylus to css for bone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lenville/bone-stylus.git"
+  },
+  "keywords": [
+    "stylus",
+    "bone-stylus"
+  ],
+  "author": "lenville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenville/bone-stylus/issues"
+  },
+  "homepage": "https://github.com/lenville/bone-stylus",
+  "dependencies": {
+    "stylus": "^0.49.3"
+  }
+}
